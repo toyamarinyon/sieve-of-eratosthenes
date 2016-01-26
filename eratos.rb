@@ -1,4 +1,8 @@
 #!/usr/bin/env ruby
+#
+# 以下のページで紹介されているアルゴリズムを実装。
+# <https://ja.wikipedia.org/wiki/エラトステネスの篩>
+#
 
 x = ARGV[0].to_i
 
